@@ -1,2 +1,2 @@
 # chap-app
-real time chatting application using Node.js , Express , Socket.io , MongoDB
+Real-Time Chatting application using Node.js , Express , Socket.io , MongoDB
